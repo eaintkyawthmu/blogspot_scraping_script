@@ -6,6 +6,7 @@
 You can reach out to me via :
 
 [![Gmail Badge](https://img.shields.io/badge/-Email--me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eaintkyawthmu@gmail.com)](mailto:eaintkyawthmu@gmail.com) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@eaintkyawthmu/)](https://medium.com/@eaintkyawthmu/)      [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eaintkyawthmu/)](https://www.linkedin.com/in/eaintkyawthmu/)   [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/eaintkyawthmu/)](https://github.com/eaintkyawthmu) 
+
 # Blogspot Scraping Script
 
 This project contains a Jupyter Notebook that scrapes data from a Blogspot blog. The data includes the title, image source, and post body of each blog post.
